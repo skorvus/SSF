@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/frmEntrada.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmImprimir.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmCorreo.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmPacientes.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Asignacion.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoDetalleEntrada.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Usuario.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/frmAsignacion.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DAOPacientes.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Controlador.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Hash.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmPacientes2.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoTipo.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DetalleEntrada.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmHistorial_Ingresos_Egresos.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Administracion.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Pacientes.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmUsuarios.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Tipo.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmLogin.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/FrmPrincipal.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoUsuario.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/comboItemAdmin.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/pantallas/frmProducto.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/comboItemTipo.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Conex.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Producto.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoProducto.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Reportes.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoAsignacion.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/Compra.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoAdministracion.java</file>
+            <file>file:/C:/Users/joel/Documents/NetBeansProjects/SagradaFamilia/src/clases/DaoCompra.java</file>
+        </group>
+    </open-files>
+</project-private>
